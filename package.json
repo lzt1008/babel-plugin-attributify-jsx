@@ -10,6 +10,15 @@
       "import": "./dist/index.mjs"
     }
   },
+  "homepage": "https://github.com/lzt1008/babel-plugin-attributify-jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzt1008/babel-plugin-attributify-jsx.git",
+    "directory": "packages/core"
+  },
+  "bugs": {
+    "url": "https://github.com/lzt1008/babel-plugin-attributify-jsx/issues"
+  },
   "sideEffects": false,
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",

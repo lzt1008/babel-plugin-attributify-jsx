@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-attributify-jsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "babel plugin for JSX/TSX valueless attributify",
   "type": "module",
   "exports": {
